@@ -13,3 +13,8 @@
 3. 다시 실행
 4. 여전히 안된다
 5. 될때까지 1-4 반복
+
+# 시도했던 것과 시도하고 있는 것
+1. generator 내부 구조에 residual attention 적용하여 모델링해보기
+2. inferSent 또는 USE를 활용하여 sentence embedding 개선해보기
+3. 등등 다양한 구조 변화 및 모델 규제 
