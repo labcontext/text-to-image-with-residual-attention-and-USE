@@ -1,4 +1,4 @@
-# text-to-image-GANs-with-residual-attention-and-USE
+# text-to-image-GAN-with-residual-attention-and-USE
 
 # 세상 두번째로 불친절한 git repo
 코드를 돌리기 위한 준비물
