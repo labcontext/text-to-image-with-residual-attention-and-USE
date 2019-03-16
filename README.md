@@ -1,6 +1,6 @@
 # text-to-image-GAN-with-residual-attention-and-USE
 
-# 세상 두번째로 불친절한 git repo
+# 세상 불친절한 git repo
 코드를 돌리기 위한 준비물
 
 1. caption 과 image 쌍으로 이루어진 데이터셋 (검색하면 다양한 데이터 셋이 많이 나온다. 해보고 싶은 것을 찾는다)
