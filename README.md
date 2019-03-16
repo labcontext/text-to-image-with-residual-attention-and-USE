@@ -12,6 +12,7 @@ https://drive.google.com/drive/folders/1VZ7v28G-ekuYkCPnCxFjfyixSb4ypvrj?usp=sha
 # 코드 돌려보기
 
 1. trial_gan.ipynb 실행
+(2. 미완성_코드)
 
 # 시도했던 것과 시도하고 있는 것
 1. generator 내부 구조에 residual attention 적용하여 모델링해보기
